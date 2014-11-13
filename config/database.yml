@@ -9,10 +9,10 @@ development:
   encoding: unicode
   database: iii
   pool: 5
-  host: <host>
-  port: <port>
-  username: <username>
-  password: <password>
+  host: sierra-db.dartmouth.edu
+  port: 1032
+  username: jhm
+  password: Bibble44
   schema_search_path: sierra_view
 
 
